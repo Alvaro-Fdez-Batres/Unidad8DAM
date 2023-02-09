@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Creo el arch1.txt en la rama main
+=======
+Crear un archivo en la rama caca
+>>>>>>> caca
